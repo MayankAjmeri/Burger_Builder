@@ -33,7 +33,6 @@ const withErrorHandler = (WrappedComponent, axios) => {
 
     errorConfirmedHandler() {
       this.setState({ error: null });
-      console.log("j");
     }
 
     render() {
