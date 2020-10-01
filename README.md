@@ -1,4 +1,4 @@
-This is a project I created while learning React.
+This is a project I created while learning React. It is a Burger Builder website where you can create your own burger and can order it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
